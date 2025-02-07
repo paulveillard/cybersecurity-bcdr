@@ -72,7 +72,7 @@ So you are building a house...a plan is essential right?
 #### 3.2.1 - Business Continuity Lifecycle
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-3.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-lifecycle.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 But before we can engage an architect we need to define our requirements and set some guidelines. 
