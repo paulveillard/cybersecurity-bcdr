@@ -60,4 +60,8 @@ The BCP process has four major steps.
 3)     Continuity planning
 
 4)     Approval and implementation
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-3.png?raw=true" alt="Sublime's custom image"/>
+</p>
   
