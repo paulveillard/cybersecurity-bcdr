@@ -25,3 +25,9 @@ Often, we think business continuity plans (BCP) and disaster recovery plans (DRP
 </p>
 
 Business continuity management (BCM) is a holistic management process to handle both BCP and DRP. BCM provides a framework for integrating resilience with the capability for effective responses in a manner that protects the interests of the organization’s key stakeholders. The main objective of BCM is to allow the organisation to continue to perform business operations under various conditions. BCM is the main approach to managing all aspects of BCP and DRP.
+
+The following are a few widely used industrial standards and frameworks that are available for BCP.
+
+- ISO/IEC 27031:2011: describes the concepts and principles of information and communication technology (ICT) readiness for business continuity
+- ISO 22301:2019 Security and resilience — Business continuity management systems — Requirements
+- NIST outlines the following steps in SP 800-34
