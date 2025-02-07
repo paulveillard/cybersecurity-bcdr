@@ -19,6 +19,13 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## 3 - Business Continuity Management
 
+#### So what do we mean by business continuity?
+
+Business continuity is the holistic management process that ensures operations continue and that products and services are delivered at predefined levels (e.g. no shortages, no halt to an ongoing clinical trial). 
+> This approach is aligned with ISO 22301 Business Continuity Management Systems.
+
+
+
 ### 3.1 - What is Business Continuity Planning?
 
 Often, we think business continuity plans (BCP) and disaster recovery plans (DRP) are the same. 
