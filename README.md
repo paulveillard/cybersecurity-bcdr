@@ -8,3 +8,11 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
 
 ## What is Business Continuity and Disaster Recovery?
+
+## 1 - Business Continuity Planning
+
+## 2 - Disaster Recovery
+
+## 3 - Business Continuity Management
+
+### 3.1 - 
