@@ -15,6 +15,36 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### 2.1 Disaster Recovery Lifecycle
 
+Before starting to develop the BC strategy, it is important to understand the overview of a typical disaster lifecycle.
+
+There are some basic questions that you will need to ask for each phase of the lifecycle.
+
+#### Reduce (or Prevent)
+Have all threats been identified and their effects minimized?
+Have the appropriate countermeasures been implemented?
+Have all pre-disaster preventive measures been taken?
+
+####  Respond
+What should the team do while waiting either for the situation to be assessed or for the decision to activate the plan?
+What is the immediate emergency response that has been considered?
+
+#### Recover
+What steps or alternative processing procedures may be taken to work around the problem until it is fixed?
+What are the immediate actions to be taken for time-sensitive business functions?
+
+#### Resume
+How are the critical business functions going to be operated at another location?
+How are contracted equipment and third party resources to be acquired?
+
+#### Restore
+What must the team do if operations must stop because continuing the operations may corrupt or destroy future work or processes?
+What are the methods to be used to process or catch up on work that has been deferred?
+
+#### Return
+How to stop the recovery operations and resume normal business?
+
+
+
 ### 2.10 RTO and RPO requirements
 
 ## 3 - Business Continuity Management
