@@ -98,4 +98,6 @@ But before we can engage an architect we need to define our requirements and set
 Once an organisation has a policy in place a key output is a Business Continuity owner (the Programme Manager if you like). He/she may also be a part of a Steering Group and will ultimately report to the Business Continuity Sponsor (the person whose neck is on the line if things go bad).
 
 Once this is in place it becomes a lot easier to implement the following stages of the Business Continuity Lifecycle including: Business Impact Analysis/Risk Assessment, Design Strategies, Implementation/Planning and Validation of the overall programme to ensure that the objectives are being met.
+
+### 3.2 -  What is Business Continuity Strategy?
   
