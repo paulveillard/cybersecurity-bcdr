@@ -163,4 +163,7 @@ The output of the business continuity (BC) strategy phase would generally includ
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bc-strategies.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+
+## 4 - Documents Management
+
   
