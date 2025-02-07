@@ -15,7 +15,11 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### 2.1 Disaster Recovery Lifecycle
 
-Before starting to develop the BC strategy, it is important to understand the overview of a typical disaster lifecycle.
+- Before starting to develop the BC strategy, it is important to understand the overview of a typical disaster lifecycle.
+
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/dr-lifecycle.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 There are some basic questions that you will need to ask for each phase of the lifecycle.
 
