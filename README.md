@@ -139,7 +139,7 @@ The output of the business continuity (BC) strategy phase would generally includ
 - and recovery.
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcp-strategies.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bc-strategies.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
   
