@@ -109,6 +109,11 @@ Once this is in place it becomes a lot easier to implement the following stages 
 
 ### 3.2 -  Types of BC Strategies?
 
+The output of the business continuity (BC) strategy phase would generally include a strategy for:
+- mitigation,
+- (crisis) response,
+- and recovery.
+
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcp-strategies.png?raw=true" alt="Sublime's custom image"/>
 </p>
