@@ -42,5 +42,8 @@ Business Continuity Planning (BCP) helps organizations achieve
 - an increase customer confidence (many parties now ask for details of BCPs)
 - a return to normal operations within availability objectives after a disaster
 
+#### NIST SP 800-34 outlined following steps:
+
+
 
   
