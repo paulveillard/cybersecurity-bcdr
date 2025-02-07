@@ -187,6 +187,9 @@ All of these types follow a very similar path for their lifecycle.
 
 ### 4.1 - Documents Management lifecycle
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/document-lifecycle.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 Everything we do is risk based. Some questions to ask when developing and improving this system include:
 
