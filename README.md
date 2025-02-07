@@ -179,6 +179,22 @@ There are three major types/functions of documents:
 #### Reports
 - Reports provide specific information on a particular topic on a formal, standardized way. Reports may include data summaries, findings and actions to be taken.
 
+Often times these types are all engaged in a lifecycle. An SOP directs us to write a protocol (two documents), we execute the protocol (a record) and then write a report. This fluidity allows us to combine the types.
 
+Throughout these types we need to apply good change management and data integrity practices (ALCOA).
+
+All of these types follow a very similar path for their lifecycle.
+
+### 4.1 - Documents Management lifecycle
+
+
+Everything we do is risk based. Some questions to ask when developing and improving this system include:
+
+What are the risks of writing procedures at a “low level of detail versus a high level of detail) how much variability do we allow individuals performing a task?) – Both have advantages, both have disadvantages and it is not a one-sized fits all approach.
+- What are the risks in verifying (witnessing) non-critical tasks? How do we identify critical tasks?
+- What are the risks in not having evidence that a procedure-defined task was completed?
+- What are the risks in relation to archiving and documentation retrieval?
+
+There is very little difference between paper records and documents and electronic records and documents as far as what is given above. Electronic records require the same concerns around generation, distribution and maintenance. Just now you are looking at a different set of safeguards and activities to make it happen.
 
   
