@@ -104,4 +104,8 @@ Once an organisation has a policy in place a key output is a Business Continuity
 Once this is in place it becomes a lot easier to implement the following stages of the Business Continuity Lifecycle including: Business Impact Analysis/Risk Assessment, Design Strategies, Implementation/Planning and Validation of the overall programme to ensure that the objectives are being met.
 
 ### 3.2 -  What is Business Continuity Strategy?
+
+- Definition “An approach selected by an organization to ensure its recovery and continuity in the face of a disaster or other business disruption.”
+![image](https://github.com/user-attachments/assets/450a7c7c-f863-4d72-bc2c-bf15fccc3935)
+
   
