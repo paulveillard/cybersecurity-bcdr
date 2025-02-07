@@ -86,9 +86,10 @@ The BCP process has four major steps.
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-3.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### 3.1.1 - Examples of a ** BCP for Hospitals**
+### 3.1.1 - Examples of a ** Business Continuity Plan for Hospitals**
+
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-hospitals.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcp-hospitals.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
