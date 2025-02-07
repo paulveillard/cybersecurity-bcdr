@@ -105,7 +105,8 @@ Once this is in place it becomes a lot easier to implement the following stages 
 
 ### 3.2 -  What is Business Continuity Strategy?
 
-- Definition “An approach selected by an organization to ensure its recovery and continuity in the face of a disaster or other business disruption.”
-![image](https://github.com/user-attachments/assets/450a7c7c-f863-4d72-bc2c-bf15fccc3935)
+>  “An approach selected by an organization to ensure its recovery and continuity in the face of a disaster or other business disruption.”
+
+### 3.2 -  Types of BC Strategies?
 
   
