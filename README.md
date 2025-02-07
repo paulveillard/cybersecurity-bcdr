@@ -69,6 +69,12 @@ The BCP process has four major steps.
 
 So you are building a house...a plan is essential right?
 
+#### 3.2.1 - Business Continuity Lifecycle
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-3.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 But before we can engage an architect we need to define our requirements and set some guidelines. 
 - What is our budget?
 - Where are we building and what section size?
@@ -83,11 +89,12 @@ But before we can engage an architect we need to define our requirements and set
 > As per the BCI Good Practice guidelines a Business Continuity Policy has a primary purpose of communication, it should be short, clear and concise and should include:
 
 - The organisation’s definition of Business Continuity
-A definition of the scope of the Business Continuity Management (BCM) programme
-Business Continuity roles and responsibilities
-An organisational framework for the management of the organisations BCM programme
-A set of principles, guidelines and minimum standards
-A clearly defined budget, audit and governance responsibilities
+- A definition of the scope of the Business Continuity Management (BCM) programme
+- Business Continuity roles and responsibilities
+- An organisational framework for the management of the organisations BCM programme
+- A set of principles, guidelines and minimum standards
+- A clearly defined budget, audit and governance responsibilities
+
 Once an organisation has a policy in place a key output is a Business Continuity owner (the Programme Manager if you like). He/she may also be a part of a Steering Group and will ultimately report to the Business Continuity Sponsor (the person whose neck is on the line if things go bad).
 
 Once this is in place it becomes a lot easier to implement the following stages of the Business Continuity Lifecycle including: Business Impact Analysis/Risk Assessment, Design Strategies, Implementation/Planning and Validation of the overall programme to ensure that the objectives are being met.
