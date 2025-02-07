@@ -44,6 +44,8 @@ Business Continuity Planning (BCP) helps organizations achieve
 
 #### NIST SP 800-34 outlined following steps:
 
-
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-2.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
   
