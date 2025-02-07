@@ -49,5 +49,15 @@ Business Continuity Planning (BCP) helps organizations achieve
 </p>
 
 Business continuity planning (BCP) entails assessing organisational risks and developing policies, plans, and procedures to mitigate their impact if they occur.
-> The BCP focused on how to keep the organisation in business after a major disruption event takes place. It is about the survivability of the organisation and making sure that critical functions can still operate even after a disaster (e.g. the ability to make payments) . The goal of BCP planners is to implement a combination of policies, procedures, and processes such that a potentially disruptive event has as little impact on the business as possible. The BCP process has four major steps.
+> The BCP focused on how to keep the organisation in business after a major disruption event takes place. It is about the survivability of the organisation and making sure that critical functions can still operate even after a disaster (e.g. the ability to make payments) . The goal of BCP planners is to implement a combination of policies, procedures, and processes such that a potentially disruptive event has as little impact on the business as possible.
+
+The BCP process has four major steps.
+
+1)     Project scope and planning
+
+2)     Business impact analysis
+
+3)     Continuity planning
+
+4)     Approval and implementation
   
