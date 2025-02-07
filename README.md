@@ -36,6 +36,27 @@ Business continuity management is an ongoing process based on the plan-do-check-
 - Crisis Management Plans
 - Business Continuity Plans
 
+##### Emergency Action Plans
+An emergency action plan is designed to respond to an emergency with mitigating procedures to protect, secure and evacuate people to safety. This is more an OSHA thing; chances are your average Quality unit doesn’t end up owning it. Unless you have no HS&E unit, and then you write one.
+
+This plan includes procedures for detecting, warning, and responding to specific potential emergencies such as fire, severe weather, earthquake, medical emergencies, workplace violence, and other potential threats.
+
+##### Disaster Recovery Plan
+Disaster recovery plans are designed to recover from a disaster, usually related to equipment, infrastructure, and information technology. Something big goes boom, how do you restore this vital support system or equipment as soon as possible and minimize downtime and loss of data. Very important for computer system lifecycle, disaster recovery plans should include specific plans for recovery functions, resumption strategies, critical personnel, equipment, services, and external and internal communications.
+
+##### Crisis Management Plans
+Crisis management is all about planning and mitigating situations that have risk, and are usually a lot of management of communications internally and externally. This includes with regulators, health care providers, etc. When we implement SOPs for health authority notifications we are engaging in crisis management planning.
+
+##### Business Continuity Plans
+Business continuity planning identifies and plans for disasters to events that could negatively an organization’s business functions, objectives, income, reputation, and ultimate survival. This planning takes place in advance of the potential disasters or events that could harm an organization. It takes potential disasters and events into consideration with their effects on suppliers, vendors customers, and the organization’s other stakeholders.
+
+In a GxP environment, we are looking at the potential impact of disasters on drug supply and clinical study outcomes (amongst other key activities).
+
+The BCP is all about minimizing the effects of the disaster or event on the organization and returning to normal operations as soon as possible.
+
+These Plans are Interrelated
+All four plans are interrelated and should be coordinated. The plans can be combined, but as there are usually very different owners they are often separated.
+
 ### 3.1 - What is Business Continuity Planning?
 
 Often, we think business continuity plans (BCP) and disaster recovery plans (DRP) are the same. 
