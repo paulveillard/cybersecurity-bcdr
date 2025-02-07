@@ -15,4 +15,5 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## 3 - Business Continuity Management
 
-### 3.1 - 
+### 3.1 - What is Business Continuity Management?
+
