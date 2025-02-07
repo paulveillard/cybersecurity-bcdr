@@ -17,3 +17,5 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### 3.1 - What is Business Continuity Management?
 
+Often, we think business continuity plans (BCP) and disaster recovery plans (DRP) are the same. 
+> In reality, these two are not the same. DR is a subset of BCP and focuses on how to recover once a disaster has struck. BCP is at a more strategic level, it will talk about plans for business continuity in the event of a disaster.
