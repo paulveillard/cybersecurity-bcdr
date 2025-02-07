@@ -168,6 +168,17 @@ The output of the business continuity (BC) strategy phase would generally includ
 
 Today many companies are going digital, striving for paperless, reinventing how individuals find information, record data and make decisions. It is often good when undergoing these decisions to go back to basics and make sure we are all on the same page before we proceed.
 
+There are three major types/functions of documents:
+
+#### Functional Documents
+- Functional Documents provide instructions so people can perform tasks and make decisions safely effectively, compliantly and consistently. This usually includes things like procedures, process instructions, protocols, methods and specifications. Many of these need some sort of training decision. Functional documents should involve a process to ensure they are up-to-date, especially in relation to current practices and relevant standards (periodic review)
+
+#### Records
+- Records provide evidence that actions were taken and decisions were made in keeping with procedures. This includes batch manufacturing records, logbooks and laboratory data sheets and notebooks. Records are a popular target for electronic alternatives.
+
+#### Reports
+- Reports provide specific information on a particular topic on a formal, standardized way. Reports may include data summaries, findings and actions to be taken.
+
 
 
   
