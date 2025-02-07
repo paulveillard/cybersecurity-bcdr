@@ -166,4 +166,8 @@ The output of the business continuity (BC) strategy phase would generally includ
 
 ## 4 - Documents Management
 
+Today many companies are going digital, striving for paperless, reinventing how individuals find information, record data and make decisions. It is often good when undergoing these decisions to go back to basics and make sure we are all on the same page before we proceed.
+
+
+
   
