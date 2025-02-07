@@ -109,4 +109,8 @@ Once this is in place it becomes a lot easier to implement the following stages 
 
 ### 3.2 -  Types of BC Strategies?
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcp-strategies.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
   
