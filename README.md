@@ -31,3 +31,9 @@ The following are a few widely used industrial standards and frameworks that are
 - ISO/IEC 27031:2011: describes the concepts and principles of information and communication technology (ICT) readiness for business continuity
 - ISO 22301:2019 Security and resilience — Business continuity management systems — Requirements
 - NIST outlines the following steps in SP 800-34
+
+Business Continuity Planning (BCP) helps organizations achieve
+- Appropriate response to emergency situations
+- Safety of employees and data
+- a Reduced business impact
+- swift resumption of critical business functions.
