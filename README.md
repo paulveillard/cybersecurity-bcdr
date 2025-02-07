@@ -26,6 +26,11 @@ Business continuity is the holistic management process that ensures operations c
 
 Business continuity management is an ongoing process based on the plan-do-check-act methodology that is made up of 4 key elements:
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-0.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
 - Emergency Action and Response Plans
 - Disaster Recovery Plans
 - Crisis Management Plans
