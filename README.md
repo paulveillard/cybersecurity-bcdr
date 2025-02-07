@@ -37,3 +37,10 @@ Business Continuity Planning (BCP) helps organizations achieve
 - Safety of employees and data
 - a Reduced business impact
 - swift resumption of critical business functions.
+- a plan to work efficiently with your chosen DR vendor/partner
+- Reduced confusion during a crisis
+- an increase customer confidence (many parties now ask for details of BCPs)
+- a return to normal operations within availability objectives after a disaster
+
+
+  
