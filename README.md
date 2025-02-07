@@ -24,7 +24,12 @@ An ongoing & curated collection of awesome software best practices and technique
 Business continuity is the holistic management process that ensures operations continue and that products and services are delivered at predefined levels (e.g. no shortages, no halt to an ongoing clinical trial). 
 > This approach is aligned with ISO 22301 Business Continuity Management Systems.
 
+Business continuity management is an ongoing process based on the plan-do-check-act methodology that is made up of 4 key elements:
 
+- Emergency Action and Response Plans
+- Disaster Recovery Plans
+- Crisis Management Plans
+- Business Continuity Plans
 
 ### 3.1 - What is Business Continuity Planning?
 
