@@ -179,10 +179,13 @@ Disaster recovery (DR) is an organization’s ability to restore access and func
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/dcm-0.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-2.1.1 Disaster Preparedness
-2.1.2 Disaster Response and Relief
-2.1.3 Short-Term Disaster Recovery
-2.1.4 Long-Term Disaster Recovery
+#### 2.1.1 Disaster Preparedness
+
+#### 2.1.2 Disaster Response and Relief
+
+#### 2.1.3 Short-Term Disaster Recovery
+
+#### 2.1.4 Long-Term Disaster Recovery
 
 
 
