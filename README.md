@@ -225,7 +225,11 @@ Long-term recovery begins months or years after a major disaster is declared and
 
 ### 2.2 Disaster Recovery Plan
 
-### 2.3 IT Disaster Recovery Process
+### 2.3 IT Disaster Recovery Process and Use Cases: A Deep Dive into 24 Disaster Recovery Use Cases
+
+
+#### 2.3.1
+#### 2.3.24
 
 ### 2.4 Disaster Recovery Tools
 
