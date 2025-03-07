@@ -208,17 +208,17 @@ Short-Term Disaster Recovery
 
 Long-term recovery begins months or years after a major disaster is declared and ramps up as response, relief, and short-term funding and activities taper off. Long-term recovery activities may include:
 
-Rebuilding and redeveloping permanent housing and public infrastructure;
+- Rebuilding and redeveloping permanent housing and public infrastructure;
 
-Long-term financial assistance for households, businesses, and local governments;
+- Long-term financial assistance for households, businesses, and local governments;
 
-Economic and workforce development programs;
+- Economic and workforce development programs;
 
-Restoring natural and cultural resources;
+- Restoring natural and cultural resources;
 
-Redesign of local codes and ordinances to mitigate damage from future events; and 
+- Redesign of local codes and ordinances to mitigate damage from future events; and 
 
-Community development initiatives.
+- Community development initiatives.
 
 
 
