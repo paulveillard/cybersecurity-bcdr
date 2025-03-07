@@ -12,7 +12,9 @@ An ongoing & curated collection of awesome software best practices and technique
 ## 1 - Business Continuity Planning
 
 ## 2 - Disaster Recovery
-From GCP's Definition, Disaster recovery (DR) is an organization’s ability to restore access and functionality to IT infrastructure after a disaster event, whether natural or caused by human action (or error). DR is considered a subset of business continuity, explicitly focusing on ensuring that the IT systems that support critical business functions are operational as soon as possible after a disruptive event occurs.
+Disaster recovery (DR) is an organization’s ability to restore access and functionality to IT infrastructure after a disaster event, whether natural or caused by human action (or error). DR is considered a subset of business continuity, explicitly focusing on ensuring that the IT systems that support critical business functions are operational as soon as possible after a disruptive event occurs.
+
+IT disaster recovery is a portfolio of policies, tools, and processes used to recover or continue operations of critical IT infrastructure, software, and systems after a natural or human-made disaster.
 
 
 ### 2.1 Disaster Recovery Management
