@@ -180,6 +180,8 @@ Disaster recovery (DR) is an organization’s ability to restore access and func
 </p>
 
 #### 2.1.1 Disaster Preparedness
+Disaster preparedness refers to proactive, pre-disaster measures that mitigate the potential impact of a disaster event. It is a continuous cycle of planning, organizing, training, exercising, evaluating, and taking corrective action before a disaster occurs. Preparedness activities include creating emergency plans, distributing emergency kits, conducting drills and trainings, establishing channels of communication among government, organizations, and residents. 
+
 
 #### 2.1.2 Disaster Response and Relief
 
