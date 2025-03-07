@@ -58,9 +58,11 @@ How to stop the recovery operations and resume normal business?
 
 ## 3 - Business Continuity Management
 Often, as part of the discussion on business continuity management (BCM), there is a difference in the way the terms are defined.  To ensure consistency in our training of BCM - which includes Crisis Management (CM), Crisis Communication (CC), IT Disaster Recovery Planning (DRP) and Operational Resilience (OR) professionals, the "BCM Umbrella" is one of the several diagrams used to integrate and better explain the holistic view.
+
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-0.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/businesscontinuity-1.png?raw=true" alt="Sublime's custom image"/>
 </p>
+
 
 
 Business Continuity Management or BCM is a holistic management process for identifying potential impacts from threats, and for developing response plans.  The key objective is to increase an organization's resilience to business disruptions and to minimize the impact of such disruptions.
