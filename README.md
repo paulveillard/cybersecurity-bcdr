@@ -19,6 +19,12 @@ Disaster recovery (DR) is an organization’s ability to restore access and func
 
 ### 2.1 Disaster Recovery Management
 
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/dcm-0.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
+
 ### 2.2 Disaster Recovery Plan
 
 ### 2.3 IT Disaster Recovery Process
