@@ -294,6 +294,9 @@ To mitigate the confusion, it is important for organisations to clearly define a
 So everyone is on the same page we will use the following diagram and terminology throughout this article,
 
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/rto-1.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 
