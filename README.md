@@ -58,7 +58,7 @@ The BCP is all about minimizing the effects of the disaster or event on the orga
 These Plans are Interrelated
 All four plans are interrelated and should be coordinated. The plans can be combined, but as there are usually very different owners they are often separated.
 
-### 3.1 - What is Business Continuity Planning?
+### 1.1 - What is Business Continuity Planning?
 
 Often, we think business continuity plans (BCP) and disaster recovery plans (DRP) are the same. 
 > In reality, these two are not the same. DR is a subset of BCP and focuses on how to recover once a disaster has struck. BCP is at a more strategic level, it will talk about plans for business continuity in the event of a disaster.
@@ -108,18 +108,18 @@ The BCP process has four major steps.
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcm-3.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### 3.1.1 - Examples of a ** Business Continuity Plan for Hospitals**
+### 1.1.1 - Examples of a ** Business Continuity Plan for Hospitals**
 
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcp-hospitals.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
-### 3.2 -  What is Business Continuity Policy?
+### 1.2 -  What is Business Continuity Policy?
 
 So you are building a house...a plan is essential right?
 
-#### 3.2.1 - Business Continuity Lifecycle
+#### 1.2.1 - Business Continuity Lifecycle
 
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/bcp-lifecycle.png?raw=true" alt="Sublime's custom image"/>
@@ -149,11 +149,11 @@ Once an organisation has a policy in place a key output is a Business Continuity
 
 Once this is in place it becomes a lot easier to implement the following stages of the Business Continuity Lifecycle including: Business Impact Analysis/Risk Assessment, Design Strategies, Implementation/Planning and Validation of the overall programme to ensure that the objectives are being met.
 
-### 3.2 -  What is Business Continuity Strategy?
+### 1.2 -  What is Business Continuity Strategy?
 
 >  “An approach selected by an organization to ensure its recovery and continuity in the face of a disaster or other business disruption.”
 
-### 3.2 -  Types of BC Strategies?
+### 1.2 -  Types of BC Strategies?
 
 The output of the business continuity (BC) strategy phase would generally include a strategy for:
 - mitigation,
