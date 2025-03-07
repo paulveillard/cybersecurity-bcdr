@@ -184,6 +184,18 @@ Disaster preparedness refers to proactive, pre-disaster measures that mitigate t
 
 
 #### 2.1.2 Disaster Response and Relief
+Disaster response and relief refers to the organized efforts and actions taken to address the immediate needs of individuals and communities affected, save lives, and protect property. Relief can mean any physical or financial assistance provided. The concepts described here are consistent with response and short-term recovery per the Federal Emergency Management Agency’s (FEMA) National Disaster Recovery Framework (NDRF) and City and County of Honolulu Comprehensive Emergency Management Plan (HNL-CEMP).
+
+Disaster response and relief efforts typically include:
+
+- Search and rescue operations,
+- Emergency medical care,
+- Shelter and short-term housing provision,
+- Food and water distribution,
+- Debris removal,
+- Emergency repairs
+- Assessing impacts, and
+- Restoration of essential services and infrastructure.
 
 #### 2.1.3 Short-Term Disaster Recovery
 
