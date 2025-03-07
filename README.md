@@ -232,7 +232,7 @@ In today’s world, considering disaster recovery as an optional add-on is not j
 > Disaster recovery is more than just a safety net for your business; it’s a strategic approach to ensure uninterrupted operations and maintain customer trust even in the face of unforeseen events. In this comprehensive guide, we’ll delve into 24 diverse use cases where a robust disaster recovery solution can save the day.
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/drc-1.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-bcdr/blob/main/img/drc-1.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
