@@ -12,8 +12,13 @@ An ongoing & curated collection of awesome software best practices and technique
 ## 1 - Business Continuity Planning
 
 ## 2 - Disaster Recovery
+### 2.1 Disaster Recovery Management
 
-### 2.1 Disaster Recovery Lifecycle
+
+
+
+
+### 2.6 Disaster Recovery Lifecycle
 
 - Before starting to develop the BC strategy, it is important to understand the overview of a typical disaster lifecycle.
 
