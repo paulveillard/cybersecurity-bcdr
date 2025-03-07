@@ -199,7 +199,27 @@ Disaster response and relief efforts typically include:
 
 #### 2.1.3 Short-Term Disaster Recovery
 
+- Short-term recovery activities focus on stabilizing a post-disaster situation, ensuring the safety of survivors, and paving the way for long-term restoration and reconstruction. Activities undertaken during this phase are often characterized by temporary actions taken during response and relief that then bridge to permanent, long-term recovery. The concept described here is consistent with short- and -intermediate-term recovery per the NDRF and HNL-CEMP.
+
+Short-Term Disaster Recovery
+
 #### 2.1.4 Long-Term Disaster Recovery
+- Long-Term Disaster Recovery activities begin during and after initial response and include intermediate and long-term activities focused on restoring the built, economic, social, cultural and natural environment in ways that prevent or mitigate (reduce) impacts from future disasters. The concept described here is consistent with long-term recovery per the NDRF and HNL-CEMP.
+
+Long-term recovery begins months or years after a major disaster is declared and ramps up as response, relief, and short-term funding and activities taper off. Long-term recovery activities may include:
+
+Rebuilding and redeveloping permanent housing and public infrastructure;
+
+Long-term financial assistance for households, businesses, and local governments;
+
+Economic and workforce development programs;
+
+Restoring natural and cultural resources;
+
+Redesign of local codes and ordinances to mitigate damage from future events; and 
+
+Community development initiatives.
+
 
 
 
